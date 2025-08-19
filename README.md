@@ -16,7 +16,7 @@ I am a data science graduate student at Christ University, passionate about usin
 - 🎓 I'm currently pursuing my **MSc in Data Science**.
 - 🌱 I’m focused on strengthening my skills in **Python, SQL, and Machine Learning**.
 - 💡 My goal is to build a career in data analytics and business intelligence.
-- 📫 You can reach me at **nikhil.jose@msc.christuniversity.in**
+- 📫 You can reach me at **nikhiljose168@gmail.com**
 
 ---
 
